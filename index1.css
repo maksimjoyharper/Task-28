@@ -1,0 +1,41 @@
+.navigation {
+  border: 0;
+  height: 50px;
+  background-size: cover;
+  background-color: rgb(3, 145, 98);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.button-home-page,
+.button-chat,
+.button-profile {
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
+
+#first {
+  width: 300px;
+  height: 300px;
+  background-color: blueviolet;
+  margin: auto;
+  margin-top: 50px;
+}
+#second {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#imgFly {
+  width: 500px;
+  height: 300px;
+}
+
+.textExample {
+  color: rgb(3, 139, 39);
+}
